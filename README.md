@@ -15,7 +15,6 @@ Bot working on All OFFICIAL SERVERS.
  Auto Restock and back to spot
  a nice and powerful market sniping bot that can snipe multiple items using the Market *Registration notification also it can snipe only 1 item stack or single
  
-Ahmedwork07/21/2019
  Harpoon Fishing
  Cooking/Alchemy
  Task Scheduler that can switch between ur chars to do different activities
