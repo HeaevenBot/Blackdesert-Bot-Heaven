@@ -1,3 +1,4 @@
+https://hvnhelper.xyz/word
 ## **Black Desert Online Bot**
 
  - working on All OFFICIAL SERVERS.  All resolutions (Full Screen
